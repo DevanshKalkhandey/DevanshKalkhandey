@@ -1,5 +1,3 @@
 ### Hi there 👋 I'm Devansh Kalkhandey
 
-
-[![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkalkhandey)](https://github.com/devanshkalkhandey/github-readme-stats)
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkalkhandey&hide=contribs,prs)
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkalkhandey&hide=issues,prs)
