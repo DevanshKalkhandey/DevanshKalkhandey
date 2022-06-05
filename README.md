@@ -3,7 +3,7 @@
 - In the process of learning Web Development and Data Structures & Algorithms 👨‍💻 
 - We can talk all day about technologies that surround us and photography to explore the aesthetic side 🙋‍♂️
 
-### Languages Known:
+### Languages Known
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
@@ -16,9 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkalkhandey&layout=compact)](https://github.com/devanshkalkhandey/github-readme-stats)
 <br>
+### Some Stats
 ![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkalkhandey&hide=issues,prs&show_icons=true&theme=radical)
 
- <h2> Let's Connect </h2>
+ ### Let's Connect
  <a href = 'https://www.github.com/devanshkalkhandey'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.twitter.com/_litesking_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.instagram.com/devansh.lens'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
