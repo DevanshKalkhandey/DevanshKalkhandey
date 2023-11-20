@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Devansh Kalkhandey !!
-- Currently Pursuing B.Tech in Computer Science & Engineering🎓
-- In the process of learning Web Development and Data Structures & Algorithms 👨‍💻 
+- Completed B.Tech in Computer Science & Engineering🎓
+- In the process of learning Power Bi and MySQL 👨‍💻 
 - We can talk all day about technologies that surround us and photography to explore the aesthetic side 🙋‍♂️
 
 ### Languages Known
